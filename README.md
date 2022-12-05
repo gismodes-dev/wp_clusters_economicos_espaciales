@@ -3,7 +3,4 @@ Autor: Guillermo Alejandro Ismodes Bulnes
 
 ---
 
-.
-.
-.
-Reordenando el Código para subirlo al Repositorio
+Reordenando Código...
